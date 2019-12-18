@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculadorApp</string>
+    <string name="bt_uno">1</string>
+    <string name="bt_dos">2</string>
+    <string name="bt_tres">3</string>
+    <string name="bt_cuatro">4</string>
+    <string name="bt_cinco">5</string>
+    <string name="bt_seis">6</string>
+    <string name="bt_siete">7</string>
+    <string name="bt_ocho">8</string>
+    <string name="bt_nueve">9</string>
+    <string name="bt_mas">+</string>
+    <string name="bt_menos">-</string>
+    <string name="bt_mul">*</string>
+    <string name="bt_div">/</string>
+    <string name="bt_punto">.</string>
+    <string name="bt_cero">0</string>
+    <string name="bt_igual">=</string>
+    <string name="bt_limpiar">Limpiar</string>
+
+
+</resources>
